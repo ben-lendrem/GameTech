@@ -1,0 +1,17 @@
+﻿  CourseworkGame.cpp
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\CourseworkGame.cpp(162,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\CourseworkGame.cpp(435,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\CourseworkGame.cpp(540,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\CourseworkGame.cpp(565,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\CourseworkGame.cpp(609,69): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameTechRenderer.cpp
+  Main.cpp
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\Main.cpp(168,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\Main.cpp(265,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\Main.cpp(351,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TutorialGame.cpp
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\TutorialGame.cpp(666,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\TutorialGame.cpp(690,65): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\CSC8503\GameTech\CourseworkGame.cpp(501): warning C4715: 'NCL::CSC8503::CourseworkGame::SelectDebugObject': not all control paths return a value
+  GameTech.vcxproj -> C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\x64\Debug\GameTech.exe

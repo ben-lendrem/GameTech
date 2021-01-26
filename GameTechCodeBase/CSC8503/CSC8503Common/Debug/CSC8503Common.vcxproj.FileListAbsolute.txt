@@ -1,0 +1,2 @@
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\Win32\Debug\CSC8503Common.pdb
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\Debug\CSC8503Common.pdb

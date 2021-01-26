@@ -1,0 +1,31 @@
+﻿  CollisionDetection.cpp
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Debug.cpp
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\Debug.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\Debug.cpp(78,16): warning C4018: '>=': signed/unsigned mismatch
+  GameObject.cpp
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  GameWorld.cpp
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  PhysicsSystem.cpp
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  RenderObject.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\Win32\Debug\CSC8503Common.lib

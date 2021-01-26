@@ -1,0 +1,17 @@
+﻿  CollisionDetection.cpp
+  Constraint.cpp
+  Debug.cpp
+  GameObject.cpp
+  GameWorld.cpp
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+  PhysicsSystem.cpp
+  PushdownMachine.cpp
+  QuadTree.cpp
+  RenderObject.cpp
+  StateGameObject.cpp
+  StateMachine.cpp
+  Transform.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\x64\Debug\CSC8503Common.lib
