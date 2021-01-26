@@ -1,0 +1,5 @@
+﻿  main.cpp
+  NavMeshRenderer.cpp
+C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\OtherProjects\NavMeshVisualiser\NavMeshRenderer.cpp(181,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  NavMeshVisualiser.vcxproj -> C:\Users\Admin\Documents\Coursework\Masters\GameTechCodeBase\x64\Debug\NavMeshVisualiser.exe
