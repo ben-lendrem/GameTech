@@ -1,4 +1,0 @@
-C:\Uni\Games Engineering Code\8503 Release\Win32\Debug\Networking-ENet.pdb
-C:\Uni\Games Engineering Code\8503 Release\Plugins\Networking-ENet\Debug\Networking-ENet.pdb
-C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\Win32\Debug\Networking-ENet.pdb
-C:\Users\Ben\Documents\Uni\Masters\GameTechCodeBase\Plugins\Networking-ENet\Debug\Networking-ENet.pdb
