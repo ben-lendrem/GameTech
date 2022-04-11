@@ -1,0 +1,13 @@
+﻿  CourseworkGame.cpp
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\CourseworkGame.cpp(172,62): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\CourseworkGame.cpp(446,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\CourseworkGame.cpp(558,64): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\CourseworkGame.cpp(583,65): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\CourseworkGame.cpp(627,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\CourseworkGame.cpp(635,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\CourseworkGame.cpp(652,62): warning C4305: 'argument': truncation from 'double' to 'float'
+  Main.cpp
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\Main.cpp(153,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\GameTech\CourseworkGame.cpp(512): warning C4715: 'NCL::CSC8503::CourseworkGame::SelectDebugObject': not all control paths return a value
+  GameTech.vcxproj -> D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\x64\Debug\GameTech.exe

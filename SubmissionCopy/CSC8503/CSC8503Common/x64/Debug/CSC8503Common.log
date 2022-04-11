@@ -1,0 +1,21 @@
+﻿  CollisionDetection.cpp
+  Constraint.cpp
+  Debug.cpp
+  DiagonalNavigationGrid.cpp
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\CSC8503Common\DiagonalNavigationGrid.cpp(49,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\CSC8503\CSC8503Common\DiagonalNavigationGrid.cpp(49,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  GameWorld.cpp
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  Opponent.cpp
+  PhysicsObject.cpp
+  PhysicsSystem.cpp
+  PushdownMachine.cpp
+  QuadTree.cpp
+  RenderObject.cpp
+  StateGameObject.cpp
+  StateMachine.cpp
+  Transform.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> D:\PortfolioProjs\CSC8503GameTech\SubmissionCopy\x64\Debug\CSC8503Common.lib
